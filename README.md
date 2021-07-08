@@ -1,2 +1,3 @@
 # MachineLearning
-ML Projects
+ML Projects 
+Supervised and Unsupervised Learning
